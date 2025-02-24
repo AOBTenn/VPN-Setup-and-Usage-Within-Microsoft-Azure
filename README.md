@@ -10,3 +10,8 @@ This project detaios the steps to use a Virtual Private network (VPN) within Mic
 
 - Windows 10 (21H2)
 
+Project Guide Steps
+
+1) Create Virtual Machine
+
+  -Create Resource Group -> Select a Name for the VM -> Select a Region -> Note size of VM 2vcps/8gib memory -> Enter a username and password -> Check Licensing box -> Click next to Disk, Next to Networking -> Click Review and Create
