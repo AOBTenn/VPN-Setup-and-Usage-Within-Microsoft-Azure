@@ -25,4 +25,4 @@ Project Guide Steps
 
 5) Browse and sign up for a free trial account from your personal computer to "https://account.protonvpn.com/signup?plan-free&language=en"
 
-6) 
+6) After creating an account with Proton VPN, download the connection sotfware inside of the virtual machine, not on your personal computer
