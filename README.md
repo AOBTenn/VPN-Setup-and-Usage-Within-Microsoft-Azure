@@ -73,20 +73,38 @@ Project Guide Steps
 
 7) Copy and save your login password in notepad -> Login ->  Click "Quick Connect" to connect to a VPN server
 
+![image](https://github.com/user-attachments/assets/cea4b356-b26d-4ed2-ac6c-a4c4009739ad)
+ <p>  
+</p>
+
+![image](https://github.com/user-attachments/assets/8e227ab3-75b8-471e-a273-e3f48375f3ad)
+ <p>  
+</p>
+
+![image](https://github.com/user-attachments/assets/e6d01a5f-d545-4bf0-b4a1-380e74dd12f4)
+ <p>  
+</p>
+
 8) Re-browse within the virtual machine while connected to "https://whatismyipaddress.com" -> Record IPv4 address and info under "My Ip information" in the same notepad for comparison as well
 
 ![image](https://github.com/user-attachments/assets/a8453581-4822-45ea-b0f1-a3f93ff9a1f7)
+ <p>  
+</p>
 
- <p>  
-</p>
- <p>  
-</p>
 
 Recap
 
   As we compare the different Ip information listed on the note pad, we see that the Ip information changed each time we went to "https://whatismyipaddress.com." From the personal computer the website states our generalized "physical" location based on the server/router connenction. When we browsed from the virtual machine within Microsoft Azure to check the ip address this changed our supposed "physical" location within the United States. This is because Nicrosoft Azure  in a sense acted like a virtual private network tunnel. Lastly when you rebrowse to "https://whatismyipaddress.com" for the final time while connected to a VPN server we see that the Ip address and our location completely changed as though we were sitting in another country. As you can observe a VPN can allow you to browse on the Internet as thought you are sitting in the location of the region of that server while you are actually and physically be in another part of the world. This can be useful if need be for you to access certain websites with particular content that are only accessable or not accessable from a certain region. To demostrate this we will browse to "Netflix.com" and compare the difference in the webpage and user interface (UI).  
 
  9) Browse to Netflix.com from within your personal computer ->  Browse to Netflix.com from within the virtual achine while connected to the VPN server
+
+![image](https://github.com/user-attachments/assets/8cd071f1-a08b-4781-830e-7728aca91e95)
+ <p>  
+</p>
+
+![image](https://github.com/user-attachments/assets/0137964a-2bf5-4416-9790-c43ba1cf5768)
+ <p>  
+</p>
 
   As we can see both websites have noticable changes. There are different line-up of English or Japanese tv shows and movies in the backdrop, English or Japanese text graphics, and also English or Japanese currency changes between both sites from the same company "Netflix.com".
 
