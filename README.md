@@ -37,4 +37,8 @@ Recap
 
   Browse to Netflix.com from within your personal computer ->  Browse to Netflix.com from within the virtual achine while connected to the VPN server
 
+  As we can see both websites have noticable changes. There are different line-up of English or Japanese tv shows and movies in the backdrop, English or Japanese text graphics, and also English or Japanese currency changes between both sites from the same company "Netflix.com".
+
+  This concludes the lab project demonstrating home to install and use a virtual private network in addition to what VPNs can be used for on the world wide web.
+
   
