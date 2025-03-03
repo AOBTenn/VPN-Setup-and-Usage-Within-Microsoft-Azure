@@ -19,18 +19,18 @@ Project Guide Steps
 
 2) Get VM public Ip address and connect using Remote Desktop
 
-3) Browse from your personal computer to "https://whatismyipaddress.com" and record IPv4 address and info under "My Ip information" in notepad for comparison later
+3) Browse from your personal computer to "https://whatismyipaddress.com" -> Record IPv4 address and info under "My Ip information" in notepad for comparison later
 
-4) From within the virtual machine browse to "https://whatismyipaddress.com" and record IPv4 address and info under "My Ip information" in the same notepad for comparison also
+4) From within the virtual machine browse to "https://whatismyipaddress.com" -> Record IPv4 address and info under "My Ip information" in the same notepad for comparison also
 
 5) Browse and sign up for a free trial account from your personal computer to "https://account.protonvpn.com/signup?plan-free&language=en"
 
 6) After creating an account with Proton VPN, download the connection sotfware inside of the virtual machine, not on your personal computer
 
-7) Copy and save your login password in notepad, then login, then click "Quick Connect" to connect to a VPN server
+7) Copy and save your login password in notepad -> Login ->  Click "Quick Connect" to connect to a VPN server
 
-8) Re-browse within the virtual machine while connected to "https://whatismyipaddress.com" and record IPv4 address and info under "My Ip information" in the same notepad for comparison as well
+8) Re-browse within the virtual machine while connected to "https://whatismyipaddress.com" -> Record IPv4 address and info under "My Ip information" in the same notepad for comparison as well
 
 Recap
 
-  As we compare the different Ip information aon the note pad, we see that the Ip information changed each time we went to "https://whatismyipaddress.com." From the personal computer the website states our generalized "physical" location bsed on the server/router connenction. When we browed from the virtual machine within Microsoft Azure to the website this created a a  private network tunnel in a sense that changed our supposed "physical" location 
+  As we compare the different Ip information aon the note pad, we see that the Ip information changed each time we went to "https://whatismyipaddress.com." From the personal computer the website states our generalized "physical" location bsed on the server/router connenction. When we browed from the virtual machine within Microsoft Azure to the website this created a  private network tunnel in a sense that changed our supposed "physical" location within the United States. Lastly 
