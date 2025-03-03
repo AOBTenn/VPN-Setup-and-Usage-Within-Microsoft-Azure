@@ -1,5 +1,6 @@
+<p align="center">
 ![image](https://github.com/user-attachments/assets/4ae1f81a-293f-4be8-a86e-210d6a47326a)
-
+</p>
 This project details the steps to use a Virtual Private network (VPN) within Microsoft Azure. The VPN we wil be using is a free trial account from Proton VPN. We will also check what happens while using a VPN on the internet.
 
 <h2>Environments and Technologies Used</h2>
@@ -49,4 +50,5 @@ Recap
 
   This concludes the lab project demonstrating how to install and use a virtual private network in addition to what VPNs can be used for on the world wide web.
 
-  
+  <p>
+</p>
