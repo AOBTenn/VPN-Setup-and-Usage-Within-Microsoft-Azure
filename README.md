@@ -19,6 +19,18 @@ Project Guide Steps
 
   -Create Resource Group -> Select a Name for the VM -> Select a Region -> Select Security Type -> *Note* Select Size of VM 2vcps/8gib memory -> Enter a Username and Password -> Check Licensing box -> Click next to Disk, Next to Networking -> Click Review and Create
 
+![image](https://github.com/user-attachments/assets/bc562773-8604-4db7-9e2b-c8c37d8b8dc0)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/a613c192-56f1-4e2f-b756-62087ee4ea75)
+ <p> 
+</p>
+
+![image](https://github.com/user-attachments/assets/609b6d25-8b06-433c-81e1-5a28fcf91405)
+ <p>  
+</p>
+
 
 2) Get VM public Ip address and connect using Remote Desktop
 
