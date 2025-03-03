@@ -51,7 +51,8 @@ Project Guide Steps
 
 4) From within the virtual machine browse to "https://whatismyipaddress.com" -> Record IPv4 address and info under "My Ip information" in the same notepad for comparison also
 
-![image](https://github.com/user-attachments/assets/052d55a1-cc1d-4e73-b96f-e1aa1fb5d046)
+![image](https://github.com/user-attachments/assets/26585dd2-c1f5-4e8c-b37d-672f82eb1175)
+
  <p>  
 </p>
 
