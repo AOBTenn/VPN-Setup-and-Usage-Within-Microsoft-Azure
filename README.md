@@ -19,6 +19,12 @@ Project Guide Steps
 
   -Create Resource Group -> Select a Name for the VM -> Select a Region -> *Note* Size of VM 2vcps/8gib memory -> Enter a username and password -> Check Licensing box -> Click next to Disk, Next to Networking -> Click Review and Create
 
+  ![image](https://github.com/user-attachments/assets/bdea1c4f-675d-457e-ab8f-1ffe8a21bba1)
+  ![image](https://github.com/user-attachments/assets/6c662a7a-a64f-49a9-b683-292255f40c70)
+  ![image](https://github.com/user-attachments/assets/95aa5312-b651-418a-b6d9-1b46c4fc3bb0)
+
+
+
 2) Get VM public Ip address and connect using Remote Desktop
 
 3) Browse from your personal computer to "https://whatismyipaddress.com" -> Record IPv4 address and info under "My Ip information" in notepad for comparison later
