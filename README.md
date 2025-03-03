@@ -57,7 +57,19 @@ Project Guide Steps
 
 5) Browse and sign up for a free trial account from your personal computer to "https://account.protonvpn.com/signup?plan-free&language=en"
 
+![image](https://github.com/user-attachments/assets/25ad6814-3ed8-4b6d-9271-7f8f61680457)
+ <p>  
+</p>
+
 6) After creating an account with Proton VPN, download the connection sotfware inside of the virtual machine, not on your personal computer
+
+![image](https://github.com/user-attachments/assets/c5d659b9-0c8d-432d-b7a4-d13a7e1f781e)
+ <p>  
+</p>
+
+![image](https://github.com/user-attachments/assets/a4f4d47d-ca09-44eb-ac46-b15cf4416cfc)
+ <p>  
+</p>
 
 7) Copy and save your login password in notepad -> Login ->  Click "Quick Connect" to connect to a VPN server
 
