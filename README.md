@@ -20,7 +20,6 @@ Project Guide Steps
   -Create Resource Group -> Select a Name for the VM -> Select a Region -> Select Security Type -> *Note* Select Size of VM 2vcps/8gib memory -> Enter a Username and Password -> Check Licensing box -> Click next to Disk, Next to Networking -> Click Review and Create
 
 
-
 2) Get VM public Ip address and connect using Remote Desktop
 
 3) Browse from your personal computer to "https://whatismyipaddress.com" -> Record IPv4 address and info under "My Ip information" in notepad for comparison later
@@ -37,7 +36,7 @@ Project Guide Steps
 
 Recap
 
-  As we compare the different Ip information aon the note pad, we see that the Ip information changed each time we went to "https://whatismyipaddress.com." From the personal computer the website states our generalized "physical" location bsed on the server/router connenction. When we browed from the virtual machine within Microsoft Azure to check the ip address this changed our supposed "physical" location within the United States. This is because Nicrosoft Azure created or acted like a private network tunnel in a sense. Lastly when you rebrowse to "https://whatismyipaddress.com" for the final time while connected to a vpn server we see that the Ip address and our location completely changed as though we were sitting in another country. As you can observe that a VPN can all you to browse as thought you are sitting in located within the region of that server even though to can physically be on another part of the world. This can be useful you waant to access certain websites that are only accessable ithin a certain region or not if need be. To demostrate this we will browse to "Netflix.com" and compare the difference in the webpage and user interface (UI).  
+  As we compare the different Ip information listed on the note pad, we see that the Ip information changed each time we went to "https://whatismyipaddress.com." From the personal computer the website states our generalized "physical" location bsed on the server/router connenction. When we browed from the virtual machine within Microsoft Azure to check the ip address this changed our supposed "physical" location within the United States. This is because Nicrosoft Azure created or acted like a private network tunnel in a sense. Lastly when you rebrowse to "https://whatismyipaddress.com" for the final time while connected to a vpn server we see that the Ip address and our location completely changed as though we were sitting in another country. As you can observe that a VPN can all you to browse as thought you are sitting in located within the region of that server even though to can physically be on another part of the world. This can be useful you waant to access certain websites that are only accessable ithin a certain region or not if need be. To demostrate this we will browse to "Netflix.com" and compare the difference in the webpage and user interface (UI).  
 
   Browse to Netflix.com from within your personal computer ->  Browse to Netflix.com from within the virtual achine while connected to the VPN server
 
