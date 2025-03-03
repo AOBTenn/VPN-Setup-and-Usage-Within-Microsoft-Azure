@@ -1,3 +1,4 @@
+
 This project details the steps to use a Virtual Private network (VPN) within Microsoft Azure. The VPN we wil be using is a free trial account from Proton VPN. We will also check what happens while using a VPN on the internet.
 
 <h2>Environments and Technologies Used</h2>
@@ -39,6 +40,6 @@ Recap
 
   As we can see both websites have noticable changes. There are different line-up of English or Japanese tv shows and movies in the backdrop, English or Japanese text graphics, and also English or Japanese currency changes between both sites from the same company "Netflix.com".
 
-  This concludes the lab project demonstrating home to install and use a virtual private network in addition to what VPNs can be used for on the world wide web.
+  This concludes the lab project demonstrating how to install and use a virtual private network in addition to what VPNs can be used for on the world wide web.
 
   
