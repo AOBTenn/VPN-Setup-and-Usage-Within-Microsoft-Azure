@@ -1,6 +1,5 @@
 <h1>VPN Setup and Usage within Microsoft Azure</h1>
  
- 
  ![image](https://github.com/user-attachments/assets/4ae1f81a-293f-4be8-a86e-210d6a47326a) 
 
  <h2>Discription </h2>
@@ -9,14 +8,14 @@ This project details the steps to use a Virtual Private network (VPN) within Mic
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer)
-- Remote Desktop
-- Proton VPN
-- Personal Computer
+Microsoft Azure (Virtual Machines/Computer)
+Remote Desktop
+Proton VPN
+Personal Computer
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+Windows 10 (21H2)
 
 Project Guide Steps
 
